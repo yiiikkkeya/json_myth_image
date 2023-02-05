@@ -1,0 +1,3266 @@
+{
+  "name": "Myth",
+  "url": "https://en.wikipedia.org/wiki/Myth#Mythology",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_(disambiguation)",
+        "text": "Myth (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythologies",
+        "text": "Mythologies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Albanian_mythology",
+        "text": "Albanian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arabian_mythology",
+        "text": "Arabian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Armenian_mythology",
+        "text": "Armenian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Australian_Aboriginal_religion_and_mythology",
+        "text": "Australian Aboriginal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Traditional_Berber_religion",
+        "text": "Amazigh"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Baltic_mythology",
+        "text": "Baltic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Latvian_mythology",
+        "text": "Latvian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lithuanian_mythology",
+        "text": "Lithuanian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prussian_mythology",
+        "text": "Prussian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Basque_mythology",
+        "text": "Basque"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bantu_mythology",
+        "text": "Bantu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brazilian_mythology",
+        "text": "Brazilian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Buddhist_mythology",
+        "text": "Buddhist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Catalan_mythology",
+        "text": "Catalan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cantabrian_mythology",
+        "text": "Cantabrian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Celtic_mythology",
+        "text": "Celtic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Breton_mythology",
+        "text": "Breton"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cornish_mythology",
+        "text": "Cornish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Irish_mythology",
+        "text": "Irish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Scottish_mythology",
+        "text": "Scottish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Welsh_mythology",
+        "text": "Welsh"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chinese_mythology",
+        "text": "Chinese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Christian_mythology",
+        "text": "Christian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Efik_mythology",
+        "text": "Efik"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Egyptian_mythology",
+        "text": "Egyptian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/English_mythology",
+        "text": "English"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Estonian_mythology",
+        "text": "Estonian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Etruscan_religion",
+        "text": "Etruscan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Finnish_mythology",
+        "text": "Finnish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythology_in_France",
+        "text": "French"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georgian_mythology",
+        "text": "Georgian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Germanic_mythology",
+        "text": "Germanic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Frankish_mythology",
+        "text": "Frankish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Continental_Germanic_mythology",
+        "text": "Continental Germanic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Norse_mythology",
+        "text": "Norse"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_mythology",
+        "text": "Greek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Guanches#Religion_and_mythology",
+        "text": "Guanche"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hindu_mythology",
+        "text": "Hindu"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hittite_mythology_and_religion",
+        "text": "Hittite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hungarian_mythology",
+        "text": "Hungarian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythology_of_Indonesia",
+        "text": "Indonesian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Islamic_mythology",
+        "text": "Islamic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Japanese_mythology",
+        "text": "Japanese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jewish_mythology",
+        "text": "Jewish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Korean_mythology",
+        "text": "Korean"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lugbara_mythology",
+        "text": "Lugbara"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lusitanian_mythology",
+        "text": "Lusitanian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maasai_mythology",
+        "text": "Maasai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Malagasy_mythology",
+        "text": "Malagasy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/M%C4%81ori_mythology",
+        "text": "Māori"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mbuti_mythology",
+        "text": "Mbuti"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meitei_mythology",
+        "text": "Meitei"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Melanesian_mythology",
+        "text": "Melanesian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mesopotamian_mythology",
+        "text": "Mesopotamian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Micronesian_mythology",
+        "text": "Micronesian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mongol_mythology",
+        "text": "Mongol"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Native_American_mythology",
+        "text": "Native American"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abenaki_mythology",
+        "text": "Abenaki"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Blackfoot_mythology",
+        "text": "Blackfoot"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lenape_mythology",
+        "text": "Lenape"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aztec_mythology",
+        "text": "Aztec"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Miwok_mythology",
+        "text": "Miwok"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ohlone_mythology",
+        "text": "Ohlone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chan%C3%A1_mythology",
+        "text": "Chaná"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chilote_mythology",
+        "text": "Chilote"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Choctaw_mythology",
+        "text": "Choctaw"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Creek_mythology",
+        "text": "Creek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Guarani_mythology",
+        "text": "Guarani"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Haida_mythology",
+        "text": "Haida"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Inca_mythology",
+        "text": "Inca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Inuit_mythology",
+        "text": "Inuit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Iroquois_mythology",
+        "text": "Iroquois"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maya_mythology",
+        "text": "Maya"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Muisca_mythology",
+        "text": "Muisca"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kwakwaka%CA%BCwakw_mythology",
+        "text": "Kwakwakaʼwakw"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ho-Chunk_mythology",
+        "text": "Ho-Chunk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lakota_mythology",
+        "text": "Lakota"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pawnee_mythology",
+        "text": "Pawnee"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hopi_mythology",
+        "text": "Hopi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Zuni_mythology",
+        "text": "Zuni"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Selk%27nam_mythology",
+        "text": "Selk'nam"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Talamancan_mythology",
+        "text": "Talamancan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ossetian_mythology",
+        "text": "Ossetian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Papuan_mythology",
+        "text": "Papuan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Persian_mythology",
+        "text": "Persian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philippine_mythology",
+        "text": "Philippine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polynesian_mythology",
+        "text": "Polynesian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+        "text": "Proto-Indo-European"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Proto-Uralic_religion",
+        "text": "Proto-Uralic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Roman_mythology",
+        "text": "Roman"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romanian_mythology",
+        "text": "Romanian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S%C3%A1mi_shamanism",
+        "text": "Sámi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Slavic_mythology",
+        "text": "Slavic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Somali_mythology",
+        "text": "Somali"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Talysh_mythology",
+        "text": "Talysh"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thai_folklore",
+        "text": "Thai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tibetan_mythology",
+        "text": "Tibetan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Turkic_mythology",
+        "text": "Turkic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vietnamese_mythology",
+        "text": "Vietnamese"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/West_African_mythology",
+        "text": "West Africa"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yoruba_religion",
+        "text": "Yoruba"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Creation_myth",
+        "text": "Creation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Flood_myth",
+        "text": "Flood"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/National_myth",
+        "text": "National"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Origin_myth",
+        "text": "Origin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_creation_myths",
+        "text": "Creations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lists_of_legendary_creatures",
+        "text": "Creatures"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lists_of_deities",
+        "text": "Deities"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_flood_myths",
+        "text": "Floods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_culture_heroes",
+        "text": "Culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_folk_heroes",
+        "text": "Folk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythological_objects",
+        "text": "Objects"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythological_pairs",
+        "text": "Pairs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythological_places",
+        "text": "Places"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythology_books_and_sources",
+        "text": "Sources"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Deity",
+        "text": "Deity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legendary_creature",
+        "text": "Legendary creature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_legendary_creatures_by_type",
+        "text": "Type"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Twins_in_mythology",
+        "text": "Twins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Culture_hero",
+        "text": "Culture hero"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_hero",
+        "text": "Folk hero"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comparative_mythology",
+        "text": "Comparative mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comparative_religion",
+        "text": "Comparative religion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerism",
+        "text": "Euhemerism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore",
+        "text": "Folklore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_world_folk-epics",
+        "text": "Epics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pseudo-mythology",
+        "text": "Pseudo-mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Religion_and_mythology",
+        "text": "Religion and mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symbol",
+        "text": "Symbolism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theology",
+        "text": "Theology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Mythology",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Mythology",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore_genre",
+        "text": "folklore genre"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Narrative",
+        "text": "narratives"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Origin_myth",
+        "text": "origin myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Objectivity_(philosophy)",
+        "text": "objectively true"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Truth",
+        "text": "truth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Religion",
+        "text": "religion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spirituality",
+        "text": "spirituality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Creation_myth",
+        "text": "creation myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Norm_(social)",
+        "text": "customs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Institutions",
+        "text": "institutions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Taboos",
+        "text": "taboos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_and_ritual",
+        "text": "recital of myths and the enactment of rituals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gods",
+        "text": "gods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demigod",
+        "text": "demigods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Supernatural",
+        "text": "supernatural"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legend",
+        "text": "legends"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hotherus_and_wood_maidens_by_Froelich.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Hotherus_and_wood_maidens_by_Froelich.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Matter_of_Britain",
+        "text": "Arthurian mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Religion_and_mythology",
+        "text": "Religion and mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore_studies",
+        "text": "folklorist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lauri_Honko",
+        "text": "Lauri Honko"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cosmogony",
+        "text": "beginning of the world"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Creation_myth",
+        "text": "creation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ritual",
+        "text": "ritual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cult_(religious_practice)",
+        "text": "cult"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Manuel_Losada",
+        "text": "José Manuel Losada"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Traditional_story",
+        "text": "traditional story"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urban_myth",
+        "text": "popular misconception"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Imagination",
+        "text": "imaginary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legend",
+        "text": "legend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore_genre",
+        "text": "folktale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sacred",
+        "text": "sacred"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fairy_stories",
+        "text": "fairy stories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gods",
+        "text": "gods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demigod",
+        "text": "demigods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Supernatural",
+        "text": "supernatural"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Iliad",
+        "text": "Iliad"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Odyssey",
+        "text": "Odyssey"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aeneid",
+        "text": "Aeneid"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giant_(mythology)",
+        "text": "giants"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Elf",
+        "text": "elves"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Faerie",
+        "text": "faeries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Matter_of_Britain",
+        "text": "Matter of Britain"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/King_Arthur",
+        "text": "King Arthur"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Round_Table",
+        "text": "the knights of the Round Table"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Matter_of_France",
+        "text": "Matter of France"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pejorative",
+        "text": "pejorative"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore_studies",
+        "text": "folklorists"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropology",
+        "text": "anthropology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Television_show",
+        "text": "television shows"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythology_(fiction)",
+        "text": "Mythology (fiction)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythology_(disambiguation)",
+        "text": "Mythology (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Jesus-College-MS-111_00379_190r_(cropped)_Geraint.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Jesus-College-MS-111_00379_190r_(cropped)_Geraint.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mabinogi",
+        "text": "Mabinogi myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Red_Book_of_Hergest",
+        "text": "Red Book of Hergest"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_mythology",
+        "text": "Greek mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Roman_mythology",
+        "text": "Roman mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Celtic_mythology",
+        "text": "Celtic mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hittite_mythology",
+        "text": "Hittite mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ovid",
+        "text": "Ovid"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fabius_Planciades_Fulgentius",
+        "text": "Fabius Planciades Fulgentius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Latin_language",
+        "text": "Latin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vatican_Mythographers",
+        "text": "Vatican Mythographers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthology",
+        "text": "anthologies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Classical_mythology",
+        "text": "Classical myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Natalis_Comes",
+        "text": "Natalis Comes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prose_Edda",
+        "text": "Prose Edda"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Snorri_Sturluson",
+        "text": "Snorri Sturluson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Norse_Mythology",
+        "text": "Norse Mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Colorado_State_University",
+        "text": "Colorado State University"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bhats",
+        "text": "Bhats"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gilbert_Durand",
+        "text": "Gilbert Durand"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interdisciplinarity",
+        "text": "interdisciplinary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symbol",
+        "text": "symbolic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Literature",
+        "text": "literature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Film",
+        "text": "film"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Television",
+        "text": "television"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theater",
+        "text": "theater"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sculpture",
+        "text": "sculpture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Painting",
+        "text": "painting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Video_games",
+        "text": "video games"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Music",
+        "text": "music"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dancing",
+        "text": "dancing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Internet",
+        "text": "the Internet"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Art",
+        "text": "artistic fields"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sociology",
+        "text": "sociology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropology",
+        "text": "anthropology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Economics",
+        "text": "economics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythos_(disambiguation)",
+        "text": "Mythos (disambiguation)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fictional_universe",
+        "text": "Fictional universe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pejorative",
+        "text": "pejorative"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Poetics_(Aristotle)",
+        "text": "Aristotelian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Worldbuilding",
+        "text": "world building"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/H._P._Lovecraft",
+        "text": "H. P. Lovecraft"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythopoeia",
+        "text": "Mythopoeia"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/mytho-#English",
+        "text": "mytho-"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/-poeia#English",
+        "text": "-poeia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+        "text": "J. R. R. Tolkien"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alfred_Rosenberg",
+        "text": "Alfred Rosenberg"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Francesco_Hayez_028.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Francesco_Hayez_028.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ancient_Greek",
+        "text": "Ancient Greek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anglicisation",
+        "text": "Anglicised"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Late_Latin",
+        "text": "Late Latin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fabius_Planciades_Fulgentius",
+        "text": "Fulgentius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Classical_mythology",
+        "text": "classical mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greco-Roman_world",
+        "text": "Greco-Roman"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Etiology",
+        "text": "etiological"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Allegory",
+        "text": "allegories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Middle_French",
+        "text": "Middle French"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/John_Lydgate",
+        "text": "John Lydgate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Troy_Book",
+        "text": "Troy Book"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Moral",
+        "text": "moral"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fable",
+        "text": "fable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Allegory",
+        "text": "allegory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parable",
+        "text": "parable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Traditional_stories",
+        "text": "traditional stories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polytheism",
+        "text": "polytheistic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Samuel_Johnson",
+        "text": "Johnson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Johnson%27s_Dictionary",
+        "text": "Dictionary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Loanword",
+        "text": "loanword"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plural",
+        "text": "pl."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Comparative_mythology",
+        "text": "Comparative mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+        "text": "Eliade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lauri_Honko",
+        "text": "Honko"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Roland_Barthes",
+        "text": "Barthes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Devdutt_Pattanaik",
+        "text": "Pattanaik"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerism",
+        "text": "Euhemerism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Herodotus",
+        "text": "Herodotus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aeolus",
+        "text": "Aeolus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Herodotus",
+        "text": "Herodotus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prodicus",
+        "text": "Prodicus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerism",
+        "text": "euhemerism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerus",
+        "text": "Euhemerus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Apollo",
+        "text": "Apollo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Poseidon",
+        "text": "Poseidon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Athena",
+        "text": "Athena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aphrodite",
+        "text": "Aphrodite"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Max_M%C3%BCller",
+        "text": "Müller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythopoeic_thought",
+        "text": "Mythopoeic thought"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropomorphism",
+        "text": "personification"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_and_ritual",
+        "text": "Myth and ritual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/William_Robertson_Smith",
+        "text": "Smith"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/James_George_Frazer",
+        "text": "James George Frazer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Golden_Bough",
+        "text": "The Golden Bough"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Giambattista_Vico",
+        "text": "Vico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Joseph_Schelling",
+        "text": "Schelling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Schiller",
+        "text": "Schiller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carl_Jung",
+        "text": "Jung"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Freud",
+        "text": "Freud"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/L%C3%A9vy-Bruhl",
+        "text": "Lévy-Bruhl"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/L%C3%A9vi-Strauss",
+        "text": "Lévi-Strauss"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Northrop_Frye",
+        "text": "Frye"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_and_Ritual_School",
+        "text": "Myth and Ritual School"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Myths_and_legends_of_Babylonia_and_Assyria_(1916)_(14801987593).jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Myths_and_legends_of_Babylonia_and_Assyria_(1916)_(14801987593).jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Babylonia",
+        "text": "Babylonia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Assyria",
+        "text": "Assyria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pre-Socratic_philosophy",
+        "text": "Presocratics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerus",
+        "text": "Euhemerus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sallustius_(Neoplatonist)",
+        "text": "Sallustius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theology",
+        "text": "theological"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Natural_law",
+        "text": "natural law"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animism",
+        "text": "animistic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Republic_(Plato)",
+        "text": "Republic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonism",
+        "text": "Platonism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Middle_Platonism",
+        "text": "Middle Platonism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neoplatonism",
+        "text": "neoplatonism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plutarch",
+        "text": "Plutarch"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Porphyry_(philosopher)",
+        "text": "Porphyry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Proclus",
+        "text": "Proclus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Olympiodorus_the_younger",
+        "text": "Olympiodorus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Damascius",
+        "text": "Damascius"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Orphism_(religion)",
+        "text": "Orphic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Homer",
+        "text": "Homer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cupid_and_Psyche",
+        "text": "Cupid and Psyche"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euhemerism",
+        "text": "Euhemerism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Paganism",
+        "text": "pagan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Christianization",
+        "text": "Christianization"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Bartolomeo_di_Giovanni_-_The_Myth_of_Io_-_Walters_37421.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Bartolomeo_di_Giovanni_-_The_Myth_of_Io_-_Walters_37421.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bartolomeo_di_Giovanni",
+        "text": "Bartolomeo di Giovanni"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Metamorphoses",
+        "text": "Metamorphoses"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polytheism",
+        "text": "polytheistic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Renaissance",
+        "text": "Renaissance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theologia_mythologica",
+        "text": "Theologia Mythologica"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Robert_Wilhelm_Ekman_-_V%C3%A4in%C3%A4m%C3%B6inen%E2%80%99s_Play.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Robert_Wilhelm_Ekman_-_V%C3%A4in%C3%A4m%C3%B6inen%E2%80%99s_Play.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/V%C3%A4in%C3%A4m%C3%B6inen",
+        "text": "Väinämöinen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demigod",
+        "text": "demigod"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Finnish_mythology",
+        "text": "Finnish mythological"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Kalevala",
+        "text": "The Kalevala"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vernacular",
+        "text": "vernacular"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romantic_Nationalism",
+        "text": "Romantic Nationalism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jacob_Grimm",
+        "text": "Jacob Grimm"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Norse_mythology",
+        "text": "Norse mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Finnish_mythology",
+        "text": "Finnish mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Colonialism",
+        "text": "colonialism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sanskrit_language",
+        "text": "Sanskrit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rigveda",
+        "text": "Rigveda"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sumerian_language",
+        "text": "Sumerian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+        "text": "Epic of Gilgamesh"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythologies_of_the_indigenous_peoples_of_the_Americas",
+        "text": "mythologies of the indigenous peoples of the Americas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Traditional_African_religions",
+        "text": "traditional African religions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Evolution",
+        "text": "evolution"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indo-European_language",
+        "text": "Indo-European language"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cultural_evolution",
+        "text": "cultures might evolve"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unilineal_evolution",
+        "text": "unilineal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Max_M%C3%BCller",
+        "text": "Max Müller"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Edward_Burnett_Tylor",
+        "text": "Edward Burnett Tylor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Victorian_era",
+        "text": "Victorians"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Natural_phenomena",
+        "text": "natural phenomena"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fertility",
+        "text": "fertility"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animism",
+        "text": "animism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abstract_noun",
+        "text": "abstract nouns"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neuter_gender",
+        "text": "neuter gender"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropomorphism",
+        "text": "Anthropomorphic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Figure_of_speech",
+        "text": "figures of speech"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lucien_L%C3%A9vy-Bruhl",
+        "text": "Lucien Lévy-Bruhl"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_and_ritual",
+        "text": "myth and ritual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Personal_god",
+        "text": "personal gods"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Prometheus_by_Gustave_Moreau.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Prometheus_by_Gustave_Moreau.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prometheus",
+        "text": "Prometheus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gustave_Moreau",
+        "text": "Gustave Moreau"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hesiodus",
+        "text": "Hesiodus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aeschylus",
+        "text": "Aeschylus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_mythos",
+        "text": "Greek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prometheus_Bound",
+        "text": "Prometheus Bound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prometheus_Unbound_(Aeschylus)",
+        "text": "Prometheus Unbound"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Prometheus_Pyrphoros",
+        "text": "Prometheus Pyrphoros"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Psychoanalysis",
+        "text": "psychoanalytical"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+        "text": "Sigmund Freud"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oedipus_complex",
+        "text": "Oedipus complex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams",
+        "text": "The Interpretation of Dreams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carl_Jung",
+        "text": "Jung"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Archetypes",
+        "text": "archetypes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Structuralist_theory_of_mythology",
+        "text": "structuralist theory of mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss",
+        "text": "Lévi-Strauss"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bronislaw_Malinowski",
+        "text": "Bronislaw Malinowski"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Origin_myth",
+        "text": "origin stories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Social_norm",
+        "text": "cultural norms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Institution",
+        "text": "social institutions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anthropology",
+        "text": "anthropological"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sociology",
+        "text": "sociological"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+        "text": "citation needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Joseph_Campbell",
+        "text": "Joseph Campbell"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+        "text": "Eliade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+        "text": "citation needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Roland_Barthes",
+        "text": "Barthes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythologies_(book)",
+        "text": "Mythologies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Post-structuralism",
+        "text": "post-structuralist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Popular_culture",
+        "text": "popular culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Secularisation",
+        "text": "secularisation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Western_culture",
+        "text": "Western culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+        "text": "Abrahamic religions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rudolf_Bultmann",
+        "text": "Rudolf Bultmann"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demythologization",
+        "text": "demythologize"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+        "text": "Abrahamic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+        "text": "Eliade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citation_needed",
+        "text": "citation needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Conrad_Hyers",
+        "text": "Conrad Hyers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Postmodernism",
+        "text": "postmodernism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A._K._Ramanujan",
+        "text": "A. K. Ramanujan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Three_Hundred_Ramayanas:_Five_Examples_and_Three_Thoughts_on_Translation",
+        "text": "Three Hundred Ramayanas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:10,000_Belgian_francs_of_1929_(cropped).jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:10,000_Belgian_francs_of_1929_(cropped).jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Belgium",
+        "text": "Belgian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Banknote",
+        "text": "banknote"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ceres_(Roman_mythology)",
+        "text": "Ceres"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neptune_(mythology)",
+        "text": "Neptune"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caduceus",
+        "text": "caduceus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cultural_studies",
+        "text": "cultural studies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mythology",
+        "text": "mythic elements appear in popular culture"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Television",
+        "text": "television"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Film",
+        "text": "cinema"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Video_game",
+        "text": "video games"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Carl_Jung",
+        "text": "Jungian"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+        "text": "The Walt Disney Company"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cyberpunk",
+        "text": "cyberpunk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Action_film",
+        "text": "action films"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fantasy",
+        "text": "fantasy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Drama",
+        "text": "dramas"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Apocalyptic_literature",
+        "text": "apocalyptic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clash_of_the_Titans_(2010_film)",
+        "text": "Clash of the Titans"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Immortals_(2011_film)",
+        "text": "Immortals"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thor_(film)",
+        "text": "Thor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rick_Riordan",
+        "text": "Rick Riordan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Percy_Jackson_%26_the_Olympians",
+        "text": "Percy Jackson and the Olympians"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Twelve_Olympians",
+        "text": "Greek deities"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Portal:Myths",
+        "text": "Myths portal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythologies",
+        "text": "List of mythologies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythological_objects",
+        "text": "List of mythological objects"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_mythology_books_and_sources",
+        "text": "List of mythology books and sources"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Magic_and_mythology",
+        "text": "Magic and mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythopoeia",
+        "text": "Mythopoeia"
+      },
+      {
+        "href": "https://books.google.com/books?id=kQFtlva3HaYC&amp;pg=PR7",
+        "text": "\"Preface\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-515669-0",
+        "text": "978-0-19-515669-0"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jacqueline_Simpson",
+        "text": "Simpson, Jacqueline"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steve_Roud",
+        "text": "Steve Roud"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780191726644",
+        "text": "9780191726644"
+      },
+      {
+        "href": "https://books.google.com/books?id=Af7TFlN5hmsC&amp;pg=PA19",
+        "text": "Hindu Myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-14-044306-6",
+        "text": "978-0-14-044306-6"
+      },
+      {
+        "href": "https://www.oxfordreference.com/view/10.1093/acref/9780198715443.001.0001/acref-9780198715443-e-646?rskey=Nc4w5m&amp;result=9",
+        "text": "Legend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-871544-3",
+        "text": "978-0-19-871544-3"
+      },
+      {
+        "href": "https://books.google.com/books?id=uPJb-Yka0xAC",
+        "text": "Anthropology and Religion: What We Know, Think, and Question"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-7591-1046-5",
+        "text": "978-0-7591-1046-5"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-84-460-5267-8",
+        "text": "978-84-460-5267-8"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Merriam-Webster",
+        "text": "Merriam-Webster's Collegiate Dictionary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Springfield,_Massachusetts",
+        "text": "Springfield, Massachusetts"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Merriam-Webster",
+        "text": "Merriam-Webster"
+      },
+      {
+        "href": "https://archive.org/details/merriamwebstersc00spri/page/770",
+        "text": "770"
+      },
+      {
+        "href": "https://books.google.com/books?id=qhsdhM9tI3EC&amp;pg=PA125",
+        "text": "\"Myth-Ritual-Symbol\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wiley-Blackwell",
+        "text": "Wiley-Blackwell"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9781405194990",
+        "text": "9781405194990"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jacqueline_Simpson",
+        "text": "Simpson, Jacqueline"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steve_Roud",
+        "text": "Steve Roud"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780191726644",
+        "text": "9780191726644"
+      },
+      {
+        "href": "https://books.google.com/books?id=Af7TFlN5hmsC&amp;pg=PA19",
+        "text": "Hindu Myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-14-044306-6",
+        "text": "978-0-14-044306-6"
+      },
+      {
+        "href": "https://www.oxfordreference.com/view/10.1093/acref/9780198715443.001.0001/acref-9780198715443-e-646?rskey=Nc4w5m&amp;result=9",
+        "text": "Legend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-871544-3",
+        "text": "978-0-19-871544-3"
+      },
+      {
+        "href": "https://www.britannica.com/art/romance-literature-and-performance#toc50951",
+        "text": "\"romance | literature and performance\""
+      },
+      {
+        "href": "https://web.archive.org/web/20200804055211/https://www.lexico.com/definition/myth",
+        "text": "Myth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lexico",
+        "text": "Lexico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_University_Press",
+        "text": "Oxford University Press"
+      },
+      {
+        "href": "https://books.google.com/books?id=34BdSTbnSKUC&amp;q=myth+pejorative&amp;pg=PA37",
+        "text": "The Myth of the Titanic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-312-22148-5",
+        "text": "978-0-312-22148-5"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+        "text": "Eliade, Mircea"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rowman_%26_Littlefield",
+        "text": "Rowman &amp; Littlefield"
+      },
+      {
+        "href": "https://www.oxfordreference.com/view/10.1093/acref/9780199543984.001.0001/acref-9780199543984-e-1296?rskey=PjDvHe&amp;result=9",
+        "text": "Myth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-954398-4",
+        "text": "978-0-19-954398-4"
+      },
+      {
+        "href": "https://web.archive.org/web/20200719000015/https://www.lexico.com/definition/mythography",
+        "text": "Mythography"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lexico",
+        "text": "Lexico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jane_Chance",
+        "text": "Chance, Jane"
+      },
+      {
+        "href": "https://anthgr.colostate.edu/2015/08/snodgrass-bioculturalism/",
+        "text": "\"Dr. Snodgrass editor of new blog series: Bioculturalism\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1080%2F0143830042000200364",
+        "text": "10.1080/0143830042000200364"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1475-5629",
+        "text": "1475-5629"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/OCLC_(identifier)",
+        "text": "OCLC"
+      },
+      {
+        "href": "//www.worldcat.org/oclc/54683133",
+        "text": "54683133"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:144663317",
+        "text": "144663317"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-3-8325-4040-1",
+        "text": "978-3-8325-4040-1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+        "text": "Oxford English Dictionary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_University_Press",
+        "text": "Oxford University Press"
+      },
+      {
+        "href": "https://web.archive.org/web/20200804051551/https://www.lexico.com/definition/mythopoeia",
+        "text": "Mythopoeia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lexico",
+        "text": "Lexico"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythopoeia_(poem)",
+        "text": "Mythopoeia (poem)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cf.",
+        "text": "cf."
+      },
+      {
+        "href": "https://books.google.co.uk/books?id=JW-cQ-cypwwC",
+        "text": "Tree and Leaf; Mythopoeia; The Homecoming of Beorhtnoth Beorhthelm's Son"
+      },
+      {
+        "href": "https://web.archive.org/web/20221211183157/https://books.google.co.uk/books?id=JW-cQ-cypwwC",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/HarperCollins",
+        "text": "HarperCollins"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-00-710504-5",
+        "text": "978-0-00-710504-5"
+      },
+      {
+        "href": "https://www.britannica.com/topic/myth",
+        "text": "\"myth | Definition, History, Examples, &amp; Facts\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+        "text": "Oxford English Dictionary"
+      },
+      {
+        "href": "https://books.google.com/books?id=73mJIuYfmzEC",
+        "text": "Fulgentius the Mythographer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8142-0162-6",
+        "text": "978-0-8142-0162-6"
+      },
+      {
+        "href": "https://www.oed.com/view/Entry/124702",
+        "text": "mythology, n."
+      },
+      {
+        "href": "https://web.archive.org/web/20210713104549/https://www.oed.com/start;jsessionid=807ECB5AFE1729CE83B09E4BBB927748?authRejection=true&amp;url=%2Fview%2FEntry%2F124702",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxford_English_Dictionary",
+        "text": "Oxford English Dictionary"
+      },
+      {
+        "href": "https://archive.org/stream/lydgatestroybono9701lydguoft#page/n241/mode/2up",
+        "text": "Lydgate's Troy Book, Vol. I, p. 216"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Paris_(mythology)",
+        "text": "Paris"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/%C3%9E",
+        "text": "Þus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/%C3%9E",
+        "text": "Þis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mercury_(god)",
+        "text": "Mercury"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/%C3%9E",
+        "text": "Þan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/%C3%9E",
+        "text": "Þe"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Online_Etymology_Dictionary",
+        "text": "Online Etymology Dictionary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_Browne",
+        "text": "Browne, Thomas"
+      },
+      {
+        "href": "http://penelope.uchicago.edu/pseudodoxia/pseudo18.html",
+        "text": "Pseudodoxia Epidemica: or, Enquiries into Many Received Tenets and Commonly Presumed Truths, Vol. I, Ch. VIII."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/John_Maundeville",
+        "text": "John Mandevil"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ctesias",
+        "text": "Ctesias"
+      },
+      {
+        "href": "http://johnsonsdictionaryonline.com/?p=19456",
+        "text": "\"Mythology\" in A Dictionary of the English Language: In which the Words are Deduced from their Originals, and Illustrated in their Different Significations by Examples from the Best Writers to which are Prefixed a History of the Language and an English Grammar, p. 1345."
+      },
+      {
+        "href": "https://web.archive.org/web/20170701145956/http://johnsonsdictionaryonline.com/?p=19456",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "http://johnsonsdictionaryonline.com/?page_id=7070&amp;i=1345",
+        "text": "A Dictionary of the English Language, p. 1345"
+      },
+      {
+        "href": "https://web.archive.org/web/20170701145745/http://johnsonsdictionaryonline.com/?page_id=7070&amp;i=1345",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Samuel_Johnson",
+        "text": "Johnson"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Johnson%27s_Dictionary",
+        "text": "Dictionary"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mythologist",
+        "text": "mythologist"
+      },
+      {
+        "href": "http://www.classicapologetics.com/s/shuckcre.pdf",
+        "text": "The Creation and Fall of Man. A Supplemental Discourse to the Preface of the First Volume of the Sacred and Profane History of the World Connected, pp. xx–xxi."
+      },
+      {
+        "href": "https://web.archive.org/web/20210713104547/https://classicapologetics.com/s/shuckcre.pdf",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+        "text": "Egyptians"
+      },
+      {
+        "href": "https://books.google.com/books?id=IA8LAAAAYAAJ&amp;pg=PA335",
+        "text": "The Literary Remains of Samuel Taylor Coleridge: Shakespeare, with an introductory matter on poetry, the drama, and the stage. Notes on Ben Jonson; Beaumont and Fletcher; On the Prometheus of Æschylus &#91;and others"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abrahamus_Ecchellensis",
+        "text": "Abraham of Hekel"
+      },
+      {
+        "href": "https://books.google.com/books?id=APDxSjZkOS8C&amp;pg=PA175",
+        "text": "\"Historia Arabum(History of the Arabs)\""
+      },
+      {
+        "href": "https://books.google.com/books?id=QdNbAAAAQAAJ&amp;pg=PA269",
+        "text": "\"Letter Seventeenth\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophical_Radicals",
+        "text": "Anonymous"
+      },
+      {
+        "href": "https://books.google.com/books?id=BoJEAAAAcAAJ",
+        "text": "The History and Doctrine of Budhism: Popularly Illustrated: with Notices of the Kappooism, Or Demon Worship, and of the Bali, Or Planetary Incantations, of Ceylon"
+      },
+      {
+        "href": "https://archive.org/stream/westminsterrevi09wasogoog#page/n56/mode/2up",
+        "text": "the Westminster Review, No. XXIII,Art. III, p. 44"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maimonides",
+        "text": "Moses Ben Maimon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Enos_(Bible)",
+        "text": "Enos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abraham",
+        "text": "Abraham"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citing_sources",
+        "text": "page&#160;needed"
+      },
+      {
+        "href": "https://www.hindustantimes.com/books/no-society-can-exist-without-myth-says-devdutt-pattanaik/story-PG1v4iB17j07dV5Vyv86QN.html",
+        "text": "\"No society can exist without myth, says Devdutt Pattanaik\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hindustan_Times",
+        "text": "Hindustan Times"
+      },
+      {
+        "href": "https://www.hindustantimes.com/brunch/interview-devdutt-pattanaik-facts-are-everybody-s-truth-fiction-is-nobody-s-truth-myths-are-somebody-s-truth/story-bF0Y9JzlqKyLMAiKYNGTbL.html",
+        "text": "\"Interview: Devdutt Pattanaik \"Facts are everybody's truth. Fiction is nobody's truth. Myths are somebody's truth\"\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hindustan_Times",
+        "text": "Hindustan Times"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Concise_Oxford_Dictionary_of_World_Religions",
+        "text": "The Concise Oxford Dictionary of World Religions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/On_the_Cave_of_the_Nymphs_in_the_Odyssey",
+        "text": "analysis of the Homeric Cave of the Nymphs"
+      },
+      {
+        "href": "https://web.archive.org/web/20130516084101/http://art.thewalters.org/detail/18298",
+        "text": "\"The Myth of Io\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Walters_Art_Museum",
+        "text": "The Walters Art Museum"
+      },
+      {
+        "href": "http://art.thewalters.org/detail/18298",
+        "text": "the original"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tom_Shippey",
+        "text": "Shippey, Tom"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Arizona_Center_for_Medieval_and_Renaissance_Studies",
+        "text": "Arizona Center for Medieval and Renaissance Studies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Brewers_Publications",
+        "text": "Brewer"
+      },
+      {
+        "href": "https://books.google.com/books?id=YNCVOY423HsC&amp;pg=PA8",
+        "text": "Music, Myth and Nature, or The Dolphins of Arion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-3-7186-5321-8",
+        "text": "978-3-7186-5321-8"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Richard_Dorson",
+        "text": "Dorson, Richard M."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_Sebeok",
+        "text": "T. A. Sebeok"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Indiana_University_Press",
+        "text": "Indiana University Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#What_information_to_include",
+        "text": "full citation needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_Press_of_America",
+        "text": "University Press of America"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rudolf_Bultmann",
+        "text": "Bultmann, Rudolf"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Scribner_(publisher)",
+        "text": "Scribner"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/A._K._Ramanujan",
+        "text": "Ramanujan, A. K."
+      },
+      {
+        "href": "https://publishing.cdlib.org/ucpressebooks/view?docId=ft3j49n8h7&amp;chunk.id=d0e1254&amp;toc.depth=1&amp;toc.id=d0e1254&amp;brand=ucpress",
+        "text": "Three Hundred Rāmāyaṇas: Five Examples and Three Thoughts on Translation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_of_California_Press",
+        "text": "University of California Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Archival_Resource_Key",
+        "text": "ark:"
+      },
+      {
+        "href": "http://ark.cdlib.org/ark:/13030/ft3j49n8h7/",
+        "text": "13030/ft3j49n8h7/"
+      },
+      {
+        "href": "https://web.archive.org/web/20080514082733/http://ark.cdlib.org/ark:/13030/ft3j49n8h7/",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "http://www.trans-techresearch.net/wp-content/uploads/2015/05/three-hundred-Ramayanas-A-K-Ramanujan.pdf",
+        "text": "Three Hundred Rāmāyaṇas"
+      },
+      {
+        "href": "https://web.archive.org/web/20181005173023/http://www.trans-techresearch.net/wp-content/uploads/2015/05/three-hundred-Ramayanas-A-K-Ramanujan.pdf",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-566896-4",
+        "text": "978-0-19-566896-4"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ken_Dowden",
+        "text": "Dowden, Ken"
+      },
+      {
+        "href": "http://www.ncte.org/library/nctefiles/resources/journals/ej/1026-jul2013/ej1026exploring.pdf",
+        "text": "\"Exploring the Boundaries of Narrative: Video Games in the English Classroom\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Journal_of_Media_Psychology",
+        "text": "Journal of Media Psychology"
+      },
+      {
+        "href": "https://www.newyorker.com/culture/cultural-comment/percy-jackson-problem",
+        "text": "\"The Percy Jackson Problem\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/0028-792X",
+        "text": "0028-792X"
+      },
+      {
+        "href": "https://web.archive.org/web/20200531185643/https://www.liburubila.euskadi.eus/Record/000001222429",
+        "text": "\"Basque Mythology\""
+      },
+      {
+        "href": "https://www.liburubila.euskadi.eus/Record/000001222429",
+        "text": "the original"
+      },
+      {
+        "href": "http://search.eb.com/eb/article-9108748",
+        "text": "Myth"
+      },
+      {
+        "href": "https://web.archive.org/web/20080907213108/http://search.eb.com/eb/article-9108748",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+        "text": "Encyclopædia Britannica"
+      },
+      {
+        "href": "https://books.google.com/books?id=UXxovhF7LMQC&amp;q=mythos&amp;pg=PA61",
+        "text": "\"Mythos, Logos, and Telos: How to Regain the Love of Wisdom\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rodopi_(publisher)",
+        "text": "Rodopi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-90-420-1020-8",
+        "text": "978-90-420-1020-8"
+      },
+      {
+        "href": "https://books.google.com/books?id=3cmSa4H_C0oC",
+        "text": "\"Introduction\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_of_Massachusetts_Press",
+        "text": "University of Massachusetts Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-87023-206-0",
+        "text": "978-0-87023-206-0"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Karen_Armstrong",
+        "text": "Armstrong, Karen"
+      },
+      {
+        "href": "https://books.google.com/books?id=QHbE9hRA10gC",
+        "text": "A Short History of Myth (Myths series)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-307-36729-7",
+        "text": "978-0-307-36729-7"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Roland_Barthes",
+        "text": "Barthes, Roland"
+      },
+      {
+        "href": "https://books.google.com/books?id=BuLYyrScm1YC",
+        "text": "Mythologies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-37-452150-9",
+        "text": "978-0-37-452150-9"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/William_Bascom",
+        "text": "Bascom, William Russell"
+      },
+      {
+        "href": "https://books.google.com/books?id=AU0hNAAACAAJ",
+        "text": "The Forms of Folklore: Prose Narratives"
+      },
+      {
+        "href": "http://www.oxfordreference.com/views/ENTRY.html?subview=Main&amp;entry=t101.e2315",
+        "text": "\"Euhemerism\""
+      },
+      {
+        "href": "https://books.google.com/books?id=mhF1QgAACAAJ",
+        "text": "The Concise Oxford Dictionary of World Religions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-861053-3",
+        "text": "978-0-19-861053-3"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Thomas_Bulfinch",
+        "text": "Bulfinch, Thomas"
+      },
+      {
+        "href": "https://books.google.com/books?id=OskAy9XOnIsC",
+        "text": "Bulfinch's Mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4191-1109-9",
+        "text": "978-1-4191-1109-9"
+      },
+      {
+        "href": "https://books.google.com/books?id=Ta9kAAAAMAAJ",
+        "text": "Critical Ideas in Television Studies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-874221-0",
+        "text": "978-0-19-874221-0"
+      },
+      {
+        "href": "https://books.google.com/books?id=KzlCthJ4SLkC",
+        "text": "Hindu Myths: A Sourcebook Translated from the Sanskrit"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-14-190375-0",
+        "text": "978-0-14-190375-0"
+      },
+      {
+        "href": "https://books.google.com/books?id=qeI5UC1rmwwC",
+        "text": "Myth: A Handbook"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-313-32696-7",
+        "text": "978-0-313-32696-7"
+      },
+      {
+        "href": "https://books.google.com/books?id=U7yNnQEACAAJ",
+        "text": "The Goddess: Mythological Images of the Feminine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Alan_Dundes",
+        "text": "Dundes, Alan"
+      },
+      {
+        "href": "https://books.google.com/books?id=OgsTmeRHpeUC&amp;pg=PA147",
+        "text": "\"Madness in Method Plus a Plea for Projective Inversion in Myth\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8139-1657-6",
+        "text": "978-0-8139-1657-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Western_Folklore",
+        "text": "Western Folklore"
+      },
+      {
+        "href": "https://books.google.com/books?id=l5Om2ALAFbEC",
+        "text": "Sacred Narrative: Readings in the Theory of Myth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_of_California_Press",
+        "text": "University of California Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-520-05192-8",
+        "text": "978-0-520-05192-8"
+      },
+      {
+        "href": "https://books.google.com/books?id=l5Om2ALAFbEC&amp;pg=PA41",
+        "text": "The Problem of Defining Myth"
+      },
+      {
+        "href": "https://books.google.com/books?id=l5Om2ALAFbEC&amp;pg=PA53",
+        "text": "On Defining Myths"
+      },
+      {
+        "href": "https://books.google.com/books?id=QL9MFJqMrB0C&amp;q=mythos+Greece&amp;pg=PA223",
+        "text": "\"The Prehistory of Mythos and Logos\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/University_of_Chicago_Press",
+        "text": "University of Chicago Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-226-48202-6",
+        "text": "978-0-226-48202-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+        "text": "Eliade, Mircea"
+      },
+      {
+        "href": "https://books.google.com/books?id=XWZSvgAACAAJ",
+        "text": "Myths, dreams, and mysteries: the encounter between contemporary faiths and archaic realities"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-06-131320-2",
+        "text": "978-0-06-131320-2"
+      },
+      {
+        "href": "https://books.google.com/books?id=CaIUAAAAQBAJ",
+        "text": "Myth and Reality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-4786-0861-5",
+        "text": "978-1-4786-0861-5"
+      },
+      {
+        "href": "http://www.fupress.com/Archivio/pdf/3622.pdf",
+        "text": "Fabiani, Paolo \"The Philosophy of the Imagination in Vico and Malebranche\". F.U.P. (Florence UP), English edition 2009."
+      },
+      {
+        "href": "https://web.archive.org/web/20110512160701/http://www.fupress.com/Archivio/pdf/3622.pdf",
+        "text": "Archived"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wayback_Machine",
+        "text": "Wayback Machine"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PDF",
+        "text": "PDF"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Henri_Frankfort",
+        "text": "Frankfort, Henri"
+      },
+      {
+        "href": "https://books.google.com/books?id=tSECAAAAQBAJ",
+        "text": "The Intellectual Adventure of Ancient Man: An Essay of Speculative Thought in the Ancient Near East"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-226-11256-5",
+        "text": "978-0-226-11256-5"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/James_George_Frazer",
+        "text": "Frazer, Sir James George"
+      },
+      {
+        "href": "https://books.google.com/books?id=z3sIAQAAIAAJ&amp;pg=PR10",
+        "text": "The Golden Bough: A Study in Magic and Religion"
+      },
+      {
+        "href": "https://books.google.com/books?id=L2yMRI5xML8C",
+        "text": "Greek Mythology: An Introduction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Johns_Hopkins_University_Press",
+        "text": "Johns Hopkins University Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8018-5395-1",
+        "text": "978-0-8018-5395-1"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/New_York_City_Department_of_Cultural_Affairs",
+        "text": "New York City Department of Cultural Affairs"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-300-55364-9",
+        "text": "978-1-300-55364-9"
+      },
+      {
+        "href": "https://archive.org/details/meaningofcreatio0000hyer",
+        "text": "The Meaning of Creation: Genesis and Modern Science"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-8042-0125-4",
+        "text": "978-0-8042-0125-4"
+      },
+      {
+        "href": "https://books.google.com/books?id=MXtfRwFwGzMC",
+        "text": "Myth: Its Meaning and Functions in Ancient and Other Cultures"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-520-02389-5",
+        "text": "978-0-520-02389-5"
+      },
+      {
+        "href": "https://muse.jhu.edu/article/42709",
+        "text": "\"Folklore Studies and Popular Film and Television: A Necessary Critical Survey\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1353%2Fjaf.2003.0027",
+        "text": "10.1353/jaf.2003.0027"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "//www.worldcat.org/issn/1535-1882",
+        "text": "1535-1882"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:163091590",
+        "text": "163091590"
+      },
+      {
+        "href": "http://www.as.ysu.edu/~saleonard/History%20of%20Mythology%201.html",
+        "text": "\"The History of Mythology: Part I\""
+      },
+      {
+        "href": "https://books.google.com/books?id=KuSy6xW99agC&amp;pg=PA1",
+        "text": "The New Comparative Mythology: An Anthropological Assessment of the Theories of Georges Dumézil"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-520-02404-5",
+        "text": "978-0-520-02404-5"
+      },
+      {
+        "href": "https://books.google.com/books?id=kzmlAgAAQBAJ",
+        "text": "The Poetics of Myth"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-1-135-59913-3",
+        "text": "978-1-135-59913-3"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Religious_Studies_Review",
+        "text": "Religious Studies Review"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1111%2Fj.1748-0922.2006.00018.x",
+        "text": "10.1111/j.1748-0922.2006.00018.x"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISSN_(identifier)",
+        "text": "ISSN"
+      },
+      {
+        "href": "https://www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1748-0922",
+        "text": "1748-0922"
+      },
+      {
+        "href": "http://hdl.handle.net/10919/32929",
+        "text": "Great Expectations: the Role of Myth in 1980s Films with Child Heroes"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hdl_(identifier)",
+        "text": "hdl"
+      },
+      {
+        "href": "//hdl.handle.net/10919%2F32929",
+        "text": "10919/32929"
+      },
+      {
+        "href": "https://web.archive.org/web/20120119012708/http://scholar.lib.vt.edu/theses/available/etd-05172011-113805/unrestricted/OLSON_EL_T_2011.pdf",
+        "text": "Archived"
+      },
+      {
+        "href": "https://books.google.com/books?id=wJu9CQAAQBAJ&amp;pg=PA19",
+        "text": "Myth: A Very Short Introduction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-19-103769-6",
+        "text": "978-0-19-103769-6"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jacqueline_Simpson",
+        "text": "Simpson, Jacqueline"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Steve_Roud",
+        "text": "Steve Roud"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/9780191726644",
+        "text": "9780191726644"
+      },
+      {
+        "href": "https://books.google.com/books?id=DhrTiQW16-gC&amp;pg=PA1",
+        "text": "Cinematic Mythmaking: Philosophy in Film"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-262-26484-6",
+        "text": "978-0-262-26484-6"
+      },
+      {
+        "href": "https://books.google.com/books?id=BYWkzOawLyIC&amp;q=mythos+Greece&amp;pg=PA5",
+        "text": "\"Myth\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cambridge_University_Press",
+        "text": "Cambridge University Press"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-521-64857-8",
+        "text": "978-0-521-64857-8"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/myth",
+        "text": "myth"
+      },
+      {
+        "href": "https://en.wiktionary.org/wiki/mythology",
+        "text": "mythology"
+      },
+      {
+        "href": "https://en.wikiversity.org/wiki/School:Comparative_Mythology",
+        "text": "School:Comparative Mythology"
+      },
+      {
+        "href": "https://en.wikiquote.org/wiki/Special:Search/Myth",
+        "text": "Myth"
+      },
+      {
+        "href": "https://commons.wikimedia.org/wiki/Category:Myths",
+        "text": "Myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Folklore",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Folklore",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore",
+        "text": "Folklore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Animal_tale",
+        "text": "Animal tale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fable",
+        "text": "Fable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fairytale",
+        "text": "Fairytale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legend",
+        "text": "Legend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parable",
+        "text": "Parable"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Personal_narrative",
+        "text": "Personal narrative"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Urban_legends_and_myths",
+        "text": "Urban legend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oral_tradition",
+        "text": "Oral tradition"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_etymology",
+        "text": "Folk etymology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/False_etymology",
+        "text": "False"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Joke",
+        "text": "Joke"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Nursery_rhyme",
+        "text": "Nursery rhyme"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Proverb",
+        "text": "Proverb"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Riddle",
+        "text": "Riddle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Saying",
+        "text": "Saying"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Word_game",
+        "text": "Word game"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_belief",
+        "text": "Folk belief"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_religion",
+        "text": "Folk religion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_saint",
+        "text": "Folk saint"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ghostlore",
+        "text": "Ghostlore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legend_tripping",
+        "text": "Legend tripping"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Old_wives%27_tale",
+        "text": "Old wives' tale"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ritual",
+        "text": "Ritual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Weather_lore",
+        "text": "Weather lore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_arts",
+        "text": "Folk arts"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_art",
+        "text": "Folk art"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_world_folk-epics",
+        "text": "Folk epic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_dance",
+        "text": "Folk dance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_instrument",
+        "text": "Folk instrument"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_music",
+        "text": "Folk music"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_play",
+        "text": "Folk play"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_wrestling",
+        "text": "Folk wrestling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foodways",
+        "text": "Foodways"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cunning_folk",
+        "text": "Cunning folk"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fakelore",
+        "text": "Fakelore"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_devil",
+        "text": "Folk devil"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_healer",
+        "text": "Folk healer"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folk_hero",
+        "text": "Folk hero"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Folklore_studies",
+        "text": "Folklore studies"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Morphology_(folkloristics)",
+        "text": "Morphology (folkloristics)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aarne%E2%80%93Thompson%E2%80%93Uther_Index",
+        "text": "Aarne–Thompson–Uther Index"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Motif-Index_of_Folk-Literature",
+        "text": "Motif-Index of Folk-Literature"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Storytelling",
+        "text": "Storytelling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tradition",
+        "text": "Tradition"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Vernacular",
+        "text": "Vernacular"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q12827256#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://catalogue.bnf.fr/ark:/12148/cb119325757",
+        "text": "France"
+      },
+      {
+        "href": "https://data.bnf.fr/ark:/12148/cb119325757",
+        "text": "(data)"
+      },
+      {
+        "href": "https://d-nb.info/gnd/4075159-4",
+        "text": "Germany"
+      },
+      {
+        "href": "http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007555863605171",
+        "text": "Israel"
+      },
+      {
+        "href": "https://id.loc.gov/authorities/subjects/sh85089365",
+        "text": "United States"
+      },
+      {
+        "href": "https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000050411&amp;P_CON_LNG=ENG",
+        "text": "Latvia"
+      },
+      {
+        "href": "https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph123146&amp;CON_LNG=ENG",
+        "text": "Czech Republic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Myths",
+        "text": "Myths"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mythography",
+        "text": "Mythography"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Mythology",
+        "text": "Mythology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Greek_words_and_phrases",
+        "text": "Greek words and phrases"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1_Spanish-language_sources_(es)",
+        "text": "CS1 Spanish-language sources (es)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:CS1:_long_volume_value",
+        "text": "CS1: long volume value"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Webarchive_template_wayback_links",
+        "text": "Webarchive template wayback links"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_Middle_English-language_sources_(enm)",
+        "text": "Articles with Middle English-language sources (enm)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_Latin-language_sources_(la)",
+        "text": "Articles with Latin-language sources (la)"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Wikipedia_articles_needing_page_number_citations_from_August_2021",
+        "text": "Wikipedia articles needing page number citations from August 2021"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_with_incomplete_citations",
+        "text": "All articles with incomplete citations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_incomplete_citations_from_August_2021",
+        "text": "Articles with incomplete citations from August 2021"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Wikipedia_indefinitely_semi-protected_pages",
+        "text": "Wikipedia indefinitely semi-protected pages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+        "text": "Short description matches Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_March_2017",
+        "text": "Use dmy dates from March 2017"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_Latin-language_text",
+        "text": "Articles containing Latin-language text"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_containing_Ancient_Greek_(to_1453)-language_text",
+        "text": "Articles containing Ancient Greek (to 1453)-language text"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_with_unsourced_statements",
+        "text": "All articles with unsourced statements"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_March_2022",
+        "text": "Articles with unsourced statements from March 2022"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_unsourced_statements_from_August_2015",
+        "text": "Articles with unsourced statements from August 2015"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Commons_category_link_is_on_Wikidata",
+        "text": "Commons category link is on Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_BNF_identifiers",
+        "text": "Articles with BNF identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_GND_identifiers",
+        "text": "Articles with GND identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_J9U_identifiers",
+        "text": "Articles with J9U identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_LCCN_identifiers",
+        "text": "Articles with LCCN identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_LNB_identifiers",
+        "text": "Articles with LNB identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_NKC_identifiers",
+        "text": "Articles with NKC identifiers"
+      }
+    ],
+    "text": "Myth is a folklore genre consisting of narratives that play a fundamental role in a society, such as foundational tales or origin myths. Since \"myth\" is widely used to imply that a story is not objectively true, the identification of a narrative as a myth can be highly controversial. Many adherents of religions view their own religions' stories as truth and so object to their characterization as myth, the way they see the stories of other religions. As such, some scholars label all religious narratives \"myths\" for practical reasons, such as to avoid depreciating any one tradition because cultures interpret each other differently relative to one another.&#91;1&#93; Other scholars avoid using the term \"myth\" altogether and instead use different terms like \"sacred history\", \"holy story\", or simply \"history\" to avoid placing pejorative overtones on any sacred narrative.&#91;2&#93;Myths are often endorsed by secular and religious authorities and are closely linked to religion or spirituality.&#91;3&#93; Many societies group their myths, legends, and history together, considering myths and legends to be true accounts of their remote past.&#91;3&#93;&#91;4&#93;&#91;5&#93;&#91;6&#93; In particular, creation myths take place in a primordial age when the world had not achieved its later form.&#91;3&#93;&#91;7&#93;&#91;8&#93;&#91;9&#93; Other myths explain how a society's customs, institutions, and taboos were established and sanctified.&#91;3&#93;&#91;8&#93; There is a complex relationship between recital of myths and the enactment of rituals.\nThe main characters in myths are usually non-humans, such as gods, demigods, and other supernatural figures.&#91;10&#93;&#91;4&#93;&#91;11&#93;&#91;12&#93; Others include humans, animals, or combinations in their classification of myth.&#91;13&#93; Stories of everyday humans, although often of leaders of some type, are usually contained in legends, as opposed to myths.&#91;10&#93;&#91;12&#93; Myths are sometimes distinguished from legends in that myths deal with gods, usually have no historical basis, and are set in a world of the remote past, very different from that of the present.&#91;12&#93;&#91;14&#93;Definitions of \"myth\" vary to some extent among scholars, though Finnish folkloristLauri Honko offers a widely-cited definition:\nMyth, a story of the gods, a religious account of the beginning of the world, the creation, fundamental events, the exemplary deeds of the gods as a result of which the world, nature and culture were created together with all parts thereof and given their order, which still obtains. A myth expresses and confirms society's religious values and norms, it provides a pattern of behavior to be imitated, testifies to the efficacy of ritual with its practical ends and establishes the sanctity of cult.&#91;2&#93;Another definition of myth comes from myth criticism theorist and professor José Manuel Losada. According to Cultural Myth Criticism, the studies of myth must explain and understand “myth from inside”, that is, only “as a myth”. Losada defines myth as “a functional, symbolic and thematic narrative of one or several extraordinary events with a transcendent, sacred and supernatural referent; that lacks, in principle, historical testimony; and that refers to an individual or collective, but always absolute, cosmogony or eschatology”.&#91;15&#93;&#91;16&#93;Scholars in other fields use the term \"myth\" in varied ways.&#91;17&#93;&#91;18&#93;&#91;19&#93; In a broad sense, the word can refer to any traditional story,&#91;20&#93;&#91;21&#93;&#91;22&#93;popular misconception or imaginary entity.&#91;23&#93;Though myth and other folklore genres may overlap, myth is often thought to differ from genres such as legend and folktale in that neither are considered to be sacred narratives.&#91;24&#93;&#91;25&#93; Some kinds of folktales, such as fairy stories, are not considered true by anyone, and may be seen as distinct from myths for this reason.&#91;26&#93;&#91;27&#93;&#91;28&#93; Main characters in myths are usually gods, demigods or supernatural humans,&#91;3&#93;&#91;29&#93;&#91;30&#93; while legends generally feature humans as their main characters.&#91;3&#93;&#91;31&#93; Many exceptions and combinations exist, as in the Iliad, Odyssey and Aeneid.&#91;32&#93;&#91;33&#93; Moreover, as stories spread between cultures or as faiths change, myths can come to be considered folktales, their divine characters recast as either as humans or demihumans such as giants, elves and faeries.&#91;29&#93;&#91;34&#93;&#91;35&#93; Conversely, historical and literary material may acquire mythological qualities over time. For example, the Matter of Britain (the legendary history of Great Britain, especially those focused on King Arthur and the knights of the Round Table)&#91;36&#93; and the Matter of France, seem distantly to originate in historical events of the 5th and 8th-centuries respectively, and became mythologised over the following centuries.\nIn colloquial use, \"myth\" can also be used of a collectively held belief that has no basis in fact, or any false story.&#91;37&#93; This usage, which is often pejorative,&#91;38&#93; arose from labelling the religious myths and beliefs of other cultures as incorrect, but it has spread to cover non-religious beliefs as well.&#91;39&#93;As commonly used by folklorists and academics in other relevant fields, such as anthropology, \"myth\" has no implication whether the narrative may be understood as true or otherwise.&#91;40&#93; Among biblical scholars of both the Old and New Testament, the word \"myth\" has a technical meaning, in that it usually refers to \"describe the actions of the other‐worldly in terms of this world\" such as the Creation and the Fall.&#91;41&#93;In present use, \"mythology\" usually refers to the collection of myths of a group of people.&#91;42&#93; For example, Greek mythology, Roman mythology, Celtic mythology and Hittite mythology all describe the body of myths retold among those cultures.&#91;43&#93;\"Mythology\" can also refer to the study of myths and mythologies.\nThe compilation or description of myths is sometimes known as \"mythography\", a term also used for a scholarly anthology of myths or of the study of myths generally.&#91;44&#93;Key mythographers in the Classical tradition include:&#91;45&#93;Other prominent mythographies include the thirteenth-century Prose Edda attributed to the Icelander Snorri Sturluson, which is the main surviving survey of Norse Mythology from the Middle Ages.\nJeffrey G. Snodgrass (professor of anthropology at the Colorado State University&#91;46&#93;) has termed India's Bhats as mythographers.&#91;47&#93;Myth criticism is a system of anthropological interpretation of culture created by French philosopher Gilbert Durand. Scholars have used myth criticism to explain the mythical roots of contemporary fiction, which means that modern myth criticism needs to be interdisciplinary.\nJosé Manuel Losada offers his own methodologic, hermeneutic and epistemological approach to myth. While assuming mythopoetical perspectives, Losada’s Cultural Myth Criticism takes a step further, incorporating the study of the transcendent dimension (its function, its disappearance) to evaluate the role of myth as a mirror of contemporary culture.\nCultural Myth CriticismCultural myth criticism, without abandoning the analysis of the symbolic, invades all cultural manifestations and delves into the difficulties in understanding myth today. This cultural myth criticism studies mythical manifestations in fields as wide as literature, film and television, theater, sculpture, painting, video games, music, dancing, the Internet and other artistic fields.\nMyth criticism, a discipline that studies myths (mythology contains them, like a pantheon its statues), is by nature interdisciplinary: it combines the contributions of literary theory, the history of literature, the fine arts and the new ways of dissemination in the age of communication. Likewise, it undertakes its object of study from its interrelation with other human and social sciences, in particular sociology, anthropology and economics. The need for an approach, for a methodology that allows us to understand the complexity of the myth and its manifestations in contemporary times, is justified.&#91;48&#93;Because \"myth\" is sometimes used in a pejorative sense, some scholars have opted for \"mythos\" instead.&#91;43&#93; \"Mythos\" now more commonly refers to its Aristotelian sense as a \"plot point\" or to a body of interconnected myths or stories, especially those belonging to a particular religious or cultural tradition.&#91;49&#93; It is sometimes used specifically for modern, fictional mythologies, such as the world building of H. P. Lovecraft.\nMythopoeia (mytho- + -poeia, 'I make myth') was termed by J. R. R. Tolkien, amongst others, to refer to the \"conscious generation\" of mythology.&#91;50&#93;&#91;51&#93; It was notoriously also suggested, separately, by Nazi ideologist Alfred Rosenberg.\nThe word \"myth\" comes from Ancient Greekμῦθος (mȳthos),&#91;52&#93; meaning 'speech, narrative, fiction, myth, plot'. In Anglicised form, this Greek word began to be used in English (and was likewise adapted into other European languages) in the early 19th century, in a much narrower sense, as a scholarly term for \"[a] traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events.\"&#91;37&#93;&#91;49&#93;In turn, Ancient Greek μυθολογία (mythología, 'story', 'lore', 'legends', or 'the telling of stories') combines the word mȳthos with the suffix -λογία (-logia, 'study') in order to mean 'romance, fiction, story-telling.'&#91;53&#93; Accordingly, Plato used mythología as a general term for 'fiction' or 'story-telling' of any kind.\nThe Greek term mythología was then borrowed into Late Latin, occurring in the title of Latin author Fulgentius' 5th-century Mythologiæ to denote what we now call classical mythology—i.e., Greco-Romanetiological stories involving their gods. Fulgentius' Mythologiæ explicitly treated its subject matter as allegories requiring interpretation and not as true events.&#91;54&#93;The Latin term was then adopted in Middle French as mythologie. Whether from French or Latin usage, English adopted the word \"mythology\" in the 15th century, initially meaning 'the exposition of a myth or myths,' 'the interpretation of fables,' or 'a book of such expositions'. The word is first attested in John Lydgate's Troy Book (c. 1425).&#91;55&#93;&#91;57&#93;&#91;58&#93;From Lydgate until the 17th or 18th century, \"mythology\" meant a moral, fable, allegory or a parable, or collection of traditional stories,&#91;55&#93;&#91;60&#93; understood to be false. It came eventually to be applied to similar bodies of traditional stories among other polytheistic cultures around the world.&#91;55&#93;Thus \"mythology\" entered the English language before \"myth\". Johnson's Dictionary, for example, has an entry for mythology, but not for myth.&#91;63&#93; Indeed, the Greek loanwordmythos&#91;65&#93; (pl.mythoi) and Latinate mythus&#91;67&#93; (pl. mythi) both appeared in English before the first example of \"myth\" in 1830.&#91;70&#93;Comparative mythology is a systematic comparison of myths from different cultures. It seeks to discover underlying themes that are common to the myths of multiple cultures. In some cases, comparative mythologists use the similarities between separate mythologies to argue that those mythologies have a common source. This source may inspire myths or provide a common \"protomythology\" that diverged into the mythologies of each culture.&#91;71&#93;A number of commentators have argued that myths function to form and shape society and social behaviour. Eliade argued that one of the foremost functions of myth is to establish models for behavior&#91;72&#93;&#91;73&#93; and that myths may provide a religious experience. By telling or reenacting myths, members of traditional societies detach themselves from the present, returning to the mythical age, thereby coming closer to the divine.&#91;5&#93;&#91;73&#93;&#91;74&#93;Honko asserted that, in some cases, a society reenacts a myth in an attempt to reproduce the conditions of the mythical age. For example, it might reenact the healing performed by a god at the beginning of time in order to heal someone in the present.&#91;2&#93; Similarly, Barthes argued that modern culture explores religious experience. Since it is not the job of science to define human morality, a religious experience is an attempt to connect with a perceived moral past, which is in contrast with the technological present.&#91;75&#93;Pattanaik defines mythology as \"the subjective truth of people communicated through stories, symbols and rituals.\"&#91;76&#93; He says, \"Facts are everybody's truth. Fiction is nobody's truth. Myths are somebody's truth.\"&#91;77&#93;One theory claims that myths are distorted accounts of historical events.&#91;78&#93;&#91;79&#93; According to this theory, storytellers repeatedly elaborate upon historical accounts until the figures in those accounts gain the status of gods.&#91;78&#93;&#91;79&#93; For example, the myth of the wind-god Aeolus may have evolved from a historical account of a king who taught his people to use sails and interpret the winds.&#91;78&#93;Herodotus (fifth-century BCE) and Prodicus made claims of this kind.&#91;79&#93; This theory is named euhemerism after mythologist Euhemerus (c. 320 BCE), who suggested that Greek gods developed from legends about humans.&#91;79&#93;&#91;80&#93;Some theories propose that myths began as allegories for natural phenomena: Apollo represents the sun, Poseidon represents water, and so on.&#91;79&#93; According to another theory, myths began as allegories for philosophical or spiritual concepts: Athena represents wise judgment, Aphrodite romantic desire, and so on.&#91;79&#93;Müller supported an allegorical theory of myth. He believed myths began as allegorical descriptions of nature and gradually came to be interpreted literally. For example, a poetic description of the sea as \"raging\" was eventually taken literally and the sea was then thought of as a raging god.&#91;81&#93;Some thinkers claimed that myths result from the personification of objects and forces. According to these thinkers, the ancients worshiped natural phenomena, such as fire and air, gradually deifying them.&#91;82&#93; For example, according to this theory, ancients tended to view things as gods, not as mere objects.&#91;83&#93; Thus, they described natural events as acts of personal gods, giving rise to myths.&#91;84&#93;According to the myth-ritual theory, myth is tied to ritual.&#91;85&#93; In its most extreme form, this theory claims myths arose to explain rituals.&#91;86&#93; This claim was first put forward by Smith,&#91;87&#93; who argued that people begin performing rituals for reasons not related to myth. Forgetting the original reason for a ritual, they account for it by inventing a myth and claiming the ritual commemorates the events described in that myth.&#91;88&#93;James George Frazer — author of \"The Golden Bough\", a book on the comparative study of mythology and religion — argued that humans started out with a belief in magical rituals; later, they began to lose faith in magic and invented myths about gods, reinterpreting their rituals as religious rituals intended to appease the gods.&#91;89&#93;Historically, important approaches to the study of mythology have included those of Vico, Schelling, Schiller, Jung, Freud, Lévy-Bruhl, Lévi-Strauss, Frye, the Soviet school, and the Myth and Ritual School.&#91;90&#93;The critical interpretation of myth began with the Presocratics.&#91;91&#93;Euhemerus was one of the most important pre-modern mythologists. He interpreted myths as accounts of actual historical events, though distorted over many retellings. \nSallustius divided myths into five categories:&#91;92&#93;Plato condemned poetic myth when discussing education in the Republic. His critique was primarily on the grounds that the uneducated might take the stories of gods and heroes literally. Nevertheless, he constantly referred to myths throughout his writings. As Platonism developed in the phases commonly called Middle Platonism and neoplatonism, writers such as Plutarch, Porphyry, Proclus, Olympiodorus, and Damascius wrote explicitly about the symbolic interpretation of traditional and Orphic myths.&#91;93&#93;Mythological themes were consciously employed in literature, beginning with Homer. The resulting work may expressly refer to a mythological background without itself becoming part of a body of myths (Cupid and Psyche). Medieval romance in particular plays with this process of turning myth into literature. Euhemerism, as stated earlier, refers to the rationalization of myths, putting themes formerly imbued with mythological qualities into pragmatic contexts. An example of this would be following a cultural or religious paradigm shift (notably the re-interpretation of pagan mythology following Christianization).\nInterest in polytheistic mythology revived during the Renaissance, with early works of mythography appearing in the sixteenth century, among them the Theologia Mythologica (1532).\nThe first modern, Western scholarly theories of myth appeared during the second half of the 19th century&#91;91&#93;—at the same time as \"myth\" was adopted as a scholarly term in European languages.&#91;37&#93;&#91;49&#93; They were driven partly by a new interest in Europe's ancient past and vernacular culture, associated with Romantic Nationalism and epitomised by the research of Jacob Grimm (1785–1863). This movement drew European scholars' attention not only to Classical myths, but also material now associated with Norse mythology, Finnish mythology, and so forth. Western theories were also partly driven by Europeans' efforts to comprehend and control the cultures, stories and religions they were encountering through colonialism. These encounters included both extremely old texts such as the SanskritRigveda and the SumerianEpic of Gilgamesh, and current oral narratives such as mythologies of the indigenous peoples of the Americas or stories told in traditional African religions.&#91;96&#93;The intellectual context for nineteenth-century scholars was profoundly shaped by emerging ideas about evolution. These ideas included the recognition that many Eurasian languages—and therefore, conceivably, stories—were all descended from a lost common ancestor (the Indo-European language) which could rationally be reconstructed through the comparison of its descendant languages. They also included the idea that cultures might evolve in ways comparable to species.&#91;96&#93; In general, 19th-century theories framed myth as a failed or obsolete mode of thought, often by interpreting myth as the primitive counterpart of modern science within a unilineal framework that imagined that human cultures are travelling, at different speeds, along a linear path of cultural development.&#91;97&#93;One of the dominant mythological theories of the latter 19th century was nature mythology, the foremost exponents of which included Max Müller and Edward Burnett Tylor. This theory posited that \"primitive man\" was primarily concerned with the natural world. It tended to interpret myths that seemed distasteful to European Victorians—such as tales about sex, incest, or cannibalism—as metaphors for natural phenomena like agricultural fertility.&#91;98&#93; Unable to conceive impersonal natural laws, early humans tried to explain natural phenomena by attributing souls to inanimate objects, thus giving rise to animism. \nAccording to Tylor, human thought evolved through stages, starting with mythological ideas and gradually progressing to scientific ideas.&#91;99&#93; Müller also saw myth as originating from language, even calling myth a \"disease of language.\" He speculated that myths arose due to the lack of abstract nouns and neuter gender in ancient languages. Anthropomorphicfigures of speech, necessary in such languages, were eventually taken literally, leading to the idea that natural phenomena were in actuality conscious or divine.&#91;81&#93; Not all scholars, not even all 19th-century scholars, accepted this view. Lucien Lévy-Bruhl claimed that \"the primitive mentality is a condition of the human mind and not a stage in its historical development.\"&#91;100&#93; Recent scholarship, noting the fundamental lack of evidence for \"nature mythology\" interpretations among people who actually circulated myths, has likewise abandoned the key ideas of \"nature mythology.\"&#91;101&#93;&#91;98&#93;Frazer saw myths as a misinterpretation of magical rituals, which were themselves based on a mistaken idea of natural law. This idea was central to the \"myth and ritual\" school of thought.&#91;102&#93; According to Frazer, humans begin with an unfounded belief in impersonal magical laws. When they realize applications of these laws do not work, they give up their belief in natural law in favor of a belief in personal gods controlling nature, thus giving rise to religious myths. Meanwhile, humans continue practicing formerly magical rituals through force of habit, reinterpreting them as reenactments of mythical events. Finally, humans come to realize nature follows natural laws, and they discover their true nature through science. Here again, science makes myth obsolete as humans progress \"from magic through religion to science.\"&#91;89&#93; Segal asserted that by pitting mythical thought against modern scientific thought, such theories imply modern humans must abandon myth.&#91;103&#93;The earlier 20th century saw major work developing psychoanalytical approaches to interpreting myth, led by Sigmund Freud, who, drawing inspiration from Classical myth, began developing the concept of the Oedipus complex in his 1899 The Interpretation of Dreams. Jung likewise tried to understand the psychology behind world myths. Jung asserted that all humans share certain innate unconscious psychological forces, which he called archetypes. He believed similarities between the myths of different cultures reveals the existence of these universal archetypes.&#91;104&#93;The mid-20th century saw the influential development of a structuralist theory of mythology, led by Lévi-Strauss. Strauss argued that myths reflect patterns in the mind and interpreted those patterns more as fixed mental structures, specifically pairs of opposites (good/evil, compassionate/callous), rather than unconscious feelings or urges.&#91;105&#93; Meanwhile, Bronislaw Malinowski developed analyses of myths focusing on their social functions in the real world. He is associated with the idea that myths such as origin stories might provide a \"mythic charter\"—a legitimisation—for cultural norms and social institutions.&#91;106&#93; Thus, following the Structuralist Era (c. 1960s–1980s), the predominant anthropological and sociological approaches to myth increasingly treated myth as a form of narrative that can be studied, interpreted, and analyzed like ideology, history, and culture. In other words, myth is a form of understanding and telling stories that are connected to power, political structures, and political and economic interests.&#91;citation needed&#93;These approaches contrast with approaches, such as those of Joseph Campbell and Eliade, which hold that myth has some type of essential connection to ultimate sacred meanings that transcend cultural specifics. In particular, myth was studied in relation to history from diverse social sciences. Most of these studies share the assumption that history and myth are not distinct in the sense that history is factual, real, accurate, and truth, while myth is the opposite.&#91;citation needed&#93;In the 1950s, Barthes published a series of essays examining modern myths and the process of their creation in his book Mythologies, which stood as an early work in the emerging post-structuralist approach to mythology, which recognised myths' existence in the modern world and in popular culture.&#91;75&#93;The 20th century saw rapid secularisation in Western culture. This made Western scholars more willing to analyse narratives in the Abrahamic religions as myths; theologians such as Rudolf Bultmann argued that a modern Christianity needed to demythologize;&#91;107&#93; and other religious scholars embraced the idea that the mythical status of Abrahamic narratives was a legitimate feature of their importance.&#91;103&#93; This, in his appendix to Myths, Dreams and Mysteries, and in The Myth of the Eternal Return, Eliade attributed modern humans’ anxieties to their rejection of myths and the sense of the sacred.&#91;citation needed&#93;The Christian theologian Conrad Hyers wrote:&#91;108&#93;[M]yth today has come to have negative connotations which are the complete opposite of its meaning in a religious context... In a religious context, myths are storied vehicles of supreme truth, the most basic and important truths of all. By them, people regulate and interpret their lives and find worth and purpose in their existence. Myths put one in touch with sacred realities, the fundamental sources of being, power, and truth. They are seen not only as being the opposite of error but also as being clearly distinguishable from stories told for entertainment and from the workaday, domestic, practical language of a people. They provide answers to the mysteries of being and becoming, mysteries which, as mysteries, are hidden, yet mysteries which are revealed through story and ritual. Myths deal not only with truth but with ultimate truth.Both in 19th-century research, which tended to see existing records of stories and folklore as imperfect fragments of partially lost myths, and in 20th-century structuralist work, which sought to identify underlying patterns and structures in often diverse versions of a given myth, there had been a tendency to synthesise sources to attempt to reconstruct what scholars supposed to be more perfect or underlying forms of myths. From the late 20th century, researchers influenced by postmodernism tended instead to argue that each account of a given myth has its own cultural significance and meaning, and argued that rather than representing degradation from a once more perfect form, myths are inherently plastic and variable.&#91;109&#93; There is, consequently, no such thing as the 'original version' or 'original form' of a myth. One prominent example of this movement was A. K. Ramanujan's essay \"Three Hundred Ramayanas\".&#91;110&#93;&#91;111&#93;Correspondingly, scholars challenged the precedence that had once been given to texts as a medium for mythology, arguing that other media, such as the visual arts or even landscape and place-naming, could be as or more important.&#91;112&#93;Scholars in the field of cultural studies research how myth has worked itself into modern discourses. Mythological discourse can reach greater audiences than ever before via digital media. Various mythic elements appear in popular culture, as well as television, cinema and video games.&#91;113&#93;Although myth was traditionally transmitted through the oral tradition on a small scale, the film industry has enabled filmmakers to transmit myths to large audiences via film.&#91;114&#93; In Jungian psychology myths are the expression of a culture or society’s goals, fears, ambitions and dreams.&#91;115&#93;The basis of modern visual storytelling is rooted in the mythological tradition. Many contemporary films rely on ancient myths to construct narratives. The Walt Disney Company is well-known among cultural study scholars for \"reinventing\" traditional childhood myths.&#91;116&#93; While many films are not as obvious as Disney fairy tales, the plots of many films are based on the rough structure of myths. Mythological archetypes, such as the cautionary tale regarding the abuse of technology, battles between gods and creation stories, are often the subject of major film productions. These films are often created under the guise of cyberpunkaction films, fantasy, dramas and apocalyptic tales.&#91;117&#93;21st-century films such as Clash of the Titans, Immortals and Thor continue the trend of using traditional mythology to frame modern plots. Authors use mythology as a basis for their books, such as Rick Riordan, whose Percy Jackson and the Olympians series is situated in a modern-day world where the Greek deities are manifest.&#91;118&#93;",
+    "imageNames": [
+      "20px-Semi-protection-shackle.svg.png",
+      "220px-Hotherus_and_wood_maidens_by_Froelich.jpg",
+      "220px-Jesus-College-MS-111_00379_190r_%28cropped%29_Geraint.jpg",
+      "250px-Francesco_Hayez_028.jpg",
+      "170px-Myths_and_legends_of_Babylonia_and_Assyria_%281916%29_%2814801987593%29.jpg",
+      "300px-Bartolomeo_di_Giovanni_-_The_Myth_of_Io_-_Walters_37421.jpg",
+      "170px-Robert_Wilhelm_Ekman_-_V%C3%A4in%C3%A4m%C3%B6inen%E2%80%99s_Play.jpg",
+      "170px-Prometheus_by_Gustave_Moreau.jpg",
+      "220px-10%2C000_Belgian_francs_of_1929_%28cropped%29.jpg",
+      "32px-Draig.svg.png",
+      "40px-Wiktionary-logo-en-v2.svg.png",
+      "40px-Wikiversity_logo_2017.svg.png",
+      "34px-Wikiquote-logo.svg.png",
+      "30px-Commons-logo.svg.png",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}
